@@ -1,7 +1,7 @@
 Hi 👋 My name is Matthew Muller
 ===============================
 
-Web Developer and Front End Designer
+Software Engineer with a Passion for Building
 ------------------------------------
 
 I have been interested in coding since I was little, and just over a year ago I decided to start my coding journey and though it was hard, I loved being able to bring websites to life using the skills that I learned 💻. I love coding and can't wait to see what else I will learn!
