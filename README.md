@@ -9,7 +9,7 @@ I have been interested in coding since I was little, and just over a year ago I 
 * 🌍  I'm based in United States
 * 🖥️  See my portfolio at [matthew's Portfolio](https://portfolio-orpin-tau-whseiueor3.vercel.app/)
 * ✉️  You can contact me at [matthewlitmuller@gmail.com](mailto:matthewlitmuller@gmail.com)
-* 🧠  I'm learning Type Script right now
+* 🧠  I'm learning TypeScript right now
 * 🤝  I'm open to collaborating on Frontend Web Design
 * ⚡  I can't wait to learn and grow with your team!
 
